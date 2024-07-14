@@ -40,6 +40,11 @@ sim:/testbench/processor/DPath/dataMem/DataMem
 add wave -position insertpoint  \
 sim:/testbench/processor/DPath/InsMem/InstructionData
 
+add wave -position insertpoint -color gold  \
+{sim:/testbench/processor/DPath/regFile/regmem[21]}
+add wave -position insertpoint -color gold  \
+{sim:/testbench/processor/DPath/regFile/regmem[10]}
+
 # add wave -r /*
 add wave *
 run -all
