@@ -2,7 +2,7 @@
 
 This repository contains the Verilog implementation of a MIPS processor core with pipeline, hazard solution, and exception handling, along with the corresponding testbenches.
 ## Imge Arch
-![Architecture](https://drive.google.com/file/d/17h8E2QgsktlSmqqxwsVkmLG2C64o7Dlo/view?usp=sharing)
+![Architecture](Documents\Architecture.png)
 
 ## Features
 
