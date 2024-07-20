@@ -18,15 +18,15 @@
 		<em>Developed with the software and tools below.</em>
 </p>
 <p align="center">
-	<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" alt="VScode">
-	<img src="https://wiki.hevs.ch/uit/images/thumb/8/81/Questa_logo.jpg/200px-Questa_logo.jpg" width="40" alt="Questa">
-	<img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.github.corna.Vivado.png" width="40" alt="VIVADO">
-	<img src="https://shehrozpc.com/wp-content/uploads/2024/01/intel-quartus-prime-pro-edition-logo.png" width="40" alt="Quartus">
+	<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="60" alt="VScode">
+	<img src="https://wiki.hevs.ch/uit/images/thumb/8/81/Questa_logo.jpg/200px-Questa_logo.jpg" width="60" alt="Questa">
+	<img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.github.corna.Vivado.png" width="60" alt="VIVADO">
+	<img src="https://shehrozpc.com/wp-content/uploads/2024/01/intel-quartus-prime-pro-edition-logo.png" width="60" alt="Quartus">
 </p>
 
 <hr>
 
-##  Quick Liks
+##  Quick Links
 
 > - [ Overview](#overview)
 > - [ Imge Architecture](#imge-architecture)
