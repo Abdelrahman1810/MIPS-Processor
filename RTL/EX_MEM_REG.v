@@ -14,7 +14,7 @@ module EX_MEM_REG (
     output reg [31:0] DataMemoryAddress, DataMemoryWriteData,
     output reg [4:0] EX_MEM_RegisterRd // => EX_MEM_RegisterRtRdMUX
 );
-    always @(posedge clk or posedge EX_Flush) begin
+    always @(posedge clk) begin
         if (rst | EX_Flush) begin
             // WB
                 EX_MEM_RegWrite <= 0;
